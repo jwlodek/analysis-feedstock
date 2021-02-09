@@ -110,7 +110,7 @@ requirements:
     - tqdm
     - tzlocal >=1.5
     - xray-vision
-    # - xraylarch
+    - xraylarch
 
 test:
   requires:
